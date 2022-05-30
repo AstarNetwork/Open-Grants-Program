@@ -69,15 +69,16 @@ There are DAO projects such as PolkaDAO being built on Polkadot, providing utili
 
 Besides open-source program grant, the CLR mechanism can be applied to other crowdfunding for public goods, such as government electoral voting and non-profit funding. I have friends running an non-profit organization at Silicon Valley. My goal is to work with her to create the first real-world non-profit fundraising using CLR on Polkadot.
 ## Team :busts_in_silhouette:
-
+### Team name
+OAK Foundation
 ### Team members
 * Name of team leader: Chris Li
 * Names of team members: Xingyou Chen, Zhongwei Shi, Kangbin Ge
 
 ### Contact
 * **Contact Name:** [Chris Li](https://www.linkedin.com/in/chrisli2046/)
-* **Contact Email:** chris@forgelab.io
-* **Website:** https://forgelab.io
+* **Contact Email:** chris@oak.tech
+* **Website:** https://oak.tech
 ### Legal Structure 
 Individuals
 ### Team's experience
@@ -92,13 +93,13 @@ I worked at Microsoft for 4 years as a senior protocol (API) engineer before tak
 My strongest programing languages are C++ & C#, and have been ramping up on Rust since Fall 2020.
 
 ### Team Code Repos
-* https://bodhiproject.github.io/wiki/bodhi_core/event_factory/ (Oracle smart contracts on Ethereum)
-* https://github.com/rsksmart/rwallet (open-source wallet we built)
-* https://github.com/rsksmart/rsk3.js (light-weight web3-alike library for RSK)
-* https://github.com/rsksmart/truffle-integration/tree/staging/docker (RSK node Docker one-line runner)
- * https://github.com/rsksmart/truffle-integration/tree/staging/ganacheand (Ganache for RSK)
- * https://github.com/chrisli30 (Personal repos)
-
+* https://github.com/OAK-Foundation/OAK-blockchain (Blockchain in development)
+* https://github.com/OAK-Foundation/OAK-docs (Developer documentation)
+* https://github.com/OAK-Foundation/quadratic-funding-pallet (Quadratic Funding pallet)
+* https://github.com/OAK-Foundation/quadratic-funding-test (E2E Quadratic Funding test cases using Polkadot.js)
+* https://github.com/OAK-Foundation/quadratic-funding-webapp (The web application of Quadratic Funding)
+* https://github.com/OAK-Foundation/extension (Open-source contribution to Polkadot.js extension)
+* https://github.com/OAK-Foundation/hackathon-2021-spring (The demo project for Parity hackathon in Shanghai 2021)
 ### Update 2: UI Examples
 UI demos of the team's previous work, which includes
 - rWallet iOS app: production screenshots and example sketch source file
@@ -118,7 +119,7 @@ https://drive.google.com/drive/folders/1nZPg4PmWSBxbfHuMyuAlw8UVXSybjTHG?usp=sha
 ### Overview
 * **Total Estimated Duration:** 3 months
 * **Full-time equivalent (FTE):**  4 FTE
-* **Total Costs:** 30,000 DAI
+* **Total Costs:** 20,000 DAI
 
 ### Milestone 1 — Implement Substrate Modules 
 * **Estimated Duration:** 1.5 month
@@ -138,7 +139,7 @@ https://drive.google.com/drive/folders/1nZPg4PmWSBxbfHuMyuAlw8UVXSybjTHG?usp=sha
 ### Milestone 2 — Web Application (Dapp)
 * **Estimated Duration:** 1 month
 * **FTE:**  4
-* **Costs:** 10,000 DAI
+* **Costs:** 0 DAI
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -146,10 +147,8 @@ https://drive.google.com/drive/folders/1nZPg4PmWSBxbfHuMyuAlw8UVXSybjTHG?usp=sha
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can interact with the application with Polkadot.js browser extension. |
 | 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
 | 0d. | Tutorial | We will write Medium tutorials that explains the work done as part of the grant. 
-| 1. | UI Design | We will create UI sketches to demonstrate the user flow of the web application, and post here for advice |
-| 2. | Javascript Library | We will add new APIs to Polkadot javascript library, test those and get them ready for any kind of node.js or website javascript program |  
-| 3. | Application Implementation | We will incorporate the javascript library from the previous step and build a web application that interacts with our substrate chain. Note that the web is a separate product from polkadot.js.org/apps/#/rpc and will provide user friendly interface without necessary knowledge of API calls. |  
-| 4. | Deployment Instructions | We will provide one-line runner for the web application so others could spin up the app easily. |
+| 1. | Application Implementation | We will incorporate the javascript library from the previous step and build a web application that interacts with our substrate chain. Note that the web is a separate product from polkadot.js.org/apps/#/rpc and will provide user friendly interface without necessary knowledge of API calls. |  
+| 2. | Deployment Instructions | We will provide one-line runner for the web application so others could spin up the app easily. |
 
 ## Future Plans
 > Please include the team's long-term plans and intentions.
