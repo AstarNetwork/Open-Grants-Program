@@ -85,7 +85,6 @@ In cases where a niche expert opinion is desirable, one of the committee members
 - [Aeron Buchanan](https://github.com/aeronbuchanan)
 - [Gautam Dhameja](https://github.com/gautamdhameja)
 - [Ashley Grevelink](https://github.com/cruikshankss)
-- [Hakan Gurel](https://github.com/hakan-w3f)
 - [David Hawig](https://github.com/Noc2)
 - [Sebastian Müller](https://github.com/semuelle)
 - [Bill Laboon](https://github.com/laboon)
@@ -101,7 +100,6 @@ In cases where a niche expert opinion is desirable, one of the committee members
 Evaluators are individuals able to evaluate the technology delivered as a result of the Grants Program. The committee has the right to add or remove evaluators on the basis of supermajority.
 
 - [Ashley Grevelink](https://github.com/cruikshankss)
-- [Hakan Gurel](https://github.com/hakan-w3f)
 - [David Hawig](https://github.com/Noc2)
 - [Sebastian Müller](https://github.com/semuelle)
 - [Aleixo Sánchez](https://github.com/alxs)
@@ -131,7 +129,7 @@ The W3F Grants Program offers different grant levels to help you best depending 
 ### :baby_chick: Level 2<!-- omit in toc -->
 
 - **Target:** Small teams/start-ups
-- **Amount:** Up to $50,000
+- **Amount:** Up to $30,000
 - **Requirements:** 3 approvals
 - **Benefits:** All of the above + [co-promotion](./docs/announcement-guidelines.md#announcement-guidelines), [Grants Program badge](./docs/grant-badge-guidelines.md), fast track to [Substrate Builders Program](https://www.substrate.io/builders-program/)
 
@@ -139,7 +137,7 @@ The W3F Grants Program offers different grant levels to help you best depending 
 
 - **Target:** Companies/foundations with a proven track record
 - **Amount:** Unlimited
-- **Requirements:** Pitch call + 5 approvals (for >$100k: Web3 Foundation Council approval)
+- **Requirements:** 5 approvals (for >$100k: Web3 Foundation Council approval + Pitch call)
 - **Benefits:** All of the above + VC introductions
 
 ## :pencil: Process
@@ -264,7 +262,7 @@ Below is a list of other grant programs in the Polkadot/Substrate ecosystem:
 - [Astar / Shiden Network Builders Program](https://github.com/PlasmNetwork/Builders-Program)
 - [Picasso / Composable Grants Program](https://grants.composable.finance)
 - [SubQuery Grants Programme](https://subquery.network/grants)
-- [Acala Grants Program](https://github.com/AcalaNetwork/Acala-Grants-Program)
+- [Acala Grants Program](https://acala.network/ecosystem-program)
 - [OAK’s Developer Grants](https://oak.tech/community/grants/)
 
 ## :information_source: License<!-- omit in toc -->
