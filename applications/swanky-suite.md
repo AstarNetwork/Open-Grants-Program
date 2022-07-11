@@ -7,7 +7,7 @@
 > See the [Open Grants Program Process](https://github.com/w3f/Open-Grants-Program/#pencil-process) on how to submit a proposal.
 > 
 - **Project Name:** Swanky Suite - The all-in-one WASM development tool
-- **Team Name:** Astar Foundation / Astar Network ([https://github.com/AstarNetwork/](https://github.com/AstarNetwork/))
+- **Team Name:** Astar Foundation / Astar Network ([https://github.com/AstarNetwork/](https://github.com/AstarNetwork/)) & Supercolony ([https://github.com/Supercolony-net](https://github.com/Supercolony-net))
 - **Payment Address:** **TODO** - BTC, Ethereum (USDT/USDC/DAI) or Polkadot/Kusama (aUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 3
 
@@ -321,7 +321,9 @@ Namely, Swanky CLI adds network management, comprehensive account management, an
 
 The Swanky node has similar properties to Jupiter, but the Swanky node is focused on being the testing node for parachains, through customizable pallets with chain extensions.
 
-## Team :busts_in_silhouette:
+## Teams :busts_in_silhouette:
+
+## Astar
 
 ### Team members
 
@@ -357,6 +359,54 @@ Team members’ repos:
 - [https://github.com/PierreOssun](https://github.com/PierreOssun)
 - [https://github.com/shunsukew](https://github.com/shunsukew)
 
+
+## Supercolony 
+
+### Team members
+- Toma Sadova (Product Owner)  
+- Green Baneling (Blockchain Core Rust Engineer)  
+- Sven Seven (Blockchain Developer)
+- Artem Lech (Blockchain Developer)
+- Bohdan Ohorodnii (Blockchain Developer)
+
+### Contact
+
+* **Contact Name:** Toma Sadova
+* **Contact Email:** toma.sadova@supercolony.net
+* **Website:** [supercolony.net](supercolony.net)
+
+### Legal Structure
+
+* **Registered Address:** The registered office shall be in 16192 Coastal Highway, Lewes, Delaware 19958, County of
+  Sussex, USA.
+* **Registered Legal Entity:** SUPERCOLONY CORP.
+
+### Team's experience
+
+Supercolony is a venture studio.
+We are building companies and products, help Polkadot and cross-chain companies and companies who interested to be on Polkadot.
+Our main focus is to grow the capitalization of portfolio companies, grow the web 3 market and of course to make blockchain usable.
+We created OpenBrush: an ink! library providing standard contracts based on PSP with useful contracts and macros for building; and  PSP22- first ERC-20 standard on Polkadot Wasm ecosystem.
+Supercolony is co-founding gaming metaverse platform called Asylum and we help to make them successful.
+Organised the first WASM conference - Smart Contracts on Polkadot it was on 31th of May.
+
+
+
+### Team Code Repos
+
+Supercolony repo:
+* https://github.com/Supercolony-net
+
+
+Team members’ repos:
+
+* https://github.com/sventime
+* https://github.com/TtomaS7
+* https://github.com/xgreenx
+* https://github.com/varex83
+* https://github.com/Artemka374
+
+
 ## Development Status :open_book:
 
 Swanky development plans have been communicated to the ecosystem (other parachains and Parity) during the AmsterDOT Conference in April 2022.
@@ -371,12 +421,12 @@ MVP code is still under heavy development and will be open-sourced within Milest
 
 - **Total Estimated Duration:** 8 months Duration of the whole project
 - **Full-Time Equivalent (FTE):** 3 FTE
-- **Total Costs:** *400,000 USD*
+- **Total Costs:** *325,000 USD*
 
 ### Milestone 1
 
 - **Estimated Duration:** 2 months
-- **FTE:** 4
+- **FTE Astar:** 4
 - **Costs:** 50,000 USD
 
 The first milestone will cover:
@@ -399,8 +449,8 @@ The first milestone will cover:
 ### Milestone 2
 
 - **Estimated Duration:** 2 months
-- **FTE:** 4
-- **Costs:** 150,000 USD
+- **FTE Supercolony:** 3
+- **Costs:** 75,000 USD
 
 The second milestone will cover:
 
@@ -424,7 +474,7 @@ The second milestone will cover:
 ### Milestone 3
 
 - **Estimated Duration:** 2 months
-- **FTE:** 4
+- **FTE Astar:** 4
 - **Costs:** 100,000 USD
 
 The first milestone will cover:
@@ -448,7 +498,8 @@ The first milestone will cover:
 ### Milestone 4
 
 - **Estimated Duration:** 2 months
-- **FTE:** 4
+- **FTE Astar:** 4
+- **FTE Supercolony:** 2
 - **Costs:** 100,000 USD
 
 The third milestone will cover:
@@ -484,7 +535,7 @@ Swanky CLI is designed in a modular way and open-sourced, so anyone is welcome t
 
 ## Additional Information :heavy_plus_sign:
 
-Useful links:
+Useful links about Astar:
 
 - Web Site - [https://astar.network/](https://astar.network/)
 - Documentation - [https://docs.astar.network/](https://docs.astar.network/)
@@ -492,7 +543,15 @@ Useful links:
 - Medium - [https://medium.com/astar-network](https://medium.com/astar-network)
 - GitHub - [https://github.com/AstarNetwork](https://github.com/AstarNetwork)
 
-Previous Web3 Foundation Grants awarded to the team:
+
+Useful links about Supercolony:
+- Web Site - [https://supercolony.net/](https://supercolony.net/)
+- OpenBrush - [https://openbrush.io/](https://openbrush.io/))
+- Twitter - [https://twitter.com/supercolony_vs](https://twitter.com/supercolony_vs)
+- Medium - [https://medium.com/supercolony](https://medium.com/supercolony)
+- GitHub - [https://github.com/Supercolony-net](https://github.com/Supercolony-net)
+
+Previous Web3 Foundation Grants awarded to the Astar team:
 
 - Wave 2 - Second Quarter 2019 - Plasma modules for Substrate (Delivered)
 - Wave 4 - Fourth Quarter 2019 - Ink! Playground (Delivered)
@@ -500,3 +559,10 @@ Previous Web3 Foundation Grants awarded to the team:
 - Wave 7 - Third Quarter 2020 - Hardware ECDSA for Polkadot JS (Delivered)
 - Wave 8 - Fourth Quarter 2020 - ZK Rollups Pallet (Delivered)
 - Wave 10 - Second Quarter 2021 - ZK Plonk Pallet  (Delivered)
+
+Previous Web3 Foundation Grants awarded to the Supercolony team:
+- OpenBrush Grant 1 
+- OpenBrush Grant 2 
+- OpenBrush Grant 3 
+- Sol2Ink
+- Typechain 
