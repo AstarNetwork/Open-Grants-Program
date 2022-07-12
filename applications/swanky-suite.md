@@ -371,13 +371,13 @@ MVP code is still under heavy development and will be open-sourced within Milest
 
 - **Total Estimated Duration:** 8 months Duration of the whole project
 - **Full-Time Equivalent (FTE):** 3 FTE
-- **Total Costs:** *400,000 USD*
+- **Total Costs:** *390,000 USD*
 
 ### Milestone 1
 
 - **Estimated Duration:** 2 months
 - **FTE:** 4
-- **Costs:** 50,000 USD
+- **Costs:** 80,000 USD
 
 The first milestone will cover:
 
@@ -425,7 +425,7 @@ The second milestone will cover:
 
 - **Estimated Duration:** 2 months
 - **FTE:** 4
-- **Costs:** 100,000 USD
+- **Costs:** 80,000 USD
 
 The first milestone will cover:
 
@@ -449,7 +449,7 @@ The first milestone will cover:
 
 - **Estimated Duration:** 2 months
 - **FTE:** 4
-- **Costs:** 100,000 USD
+- **Costs:** 80,000 USD
 
 The third milestone will cover:
 
