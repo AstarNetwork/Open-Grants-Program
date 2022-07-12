@@ -420,14 +420,14 @@ MVP code is still under heavy development and will be open-sourced within Milest
 ### Overview
 
 - **Total Estimated Duration:** 8 months Duration of the whole project
-- **Full-Time Equivalent (FTE):** 3 FTE
-- **Total Costs:** *315,000 USD*
+- **Full-Time Equivalent (FTE):** 4 FTE
+- **Total Costs:** *400,000 USD*
 
 ### Milestone 1
 
 - **Estimated Duration:** 2 months
 - **FTE Astar:** 4
-- **Costs:** 80,000 USD
+- **Costs:** 100,000 USD
 
 The first milestone will cover:
 
@@ -449,8 +449,8 @@ The first milestone will cover:
 ### Milestone 2
 
 - **Estimated Duration:** 2 months
-- **FTE Supercolony:** 3
-- **Costs:** 75,000 USD
+- **FTE Supercolony:** 4
+- **Costs:** 100,000 USD
 
 The second milestone will cover:
 
@@ -475,7 +475,7 @@ The second milestone will cover:
 
 - **Estimated Duration:** 2 months
 - **FTE Astar:** 4
-- **Costs:** 80,000 USD
+- **Costs:** 100,000 USD
 
 The first milestone will cover:
 
@@ -499,8 +499,8 @@ The first milestone will cover:
 
 - **Estimated Duration:** 2 months
 - **FTE Astar:** 4
-- **FTE Supercolony:** 2
-- **Costs:** 80,000 USD
+- **FTE Supercolony:** 4
+- **Costs:** 100,000 USD
 
 The third milestone will cover:
 
