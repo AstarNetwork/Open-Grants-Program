@@ -42,7 +42,7 @@ In addtion to that, we also support following following actions.
 - Restart the whole network
 - Change the network config
 
-Lastly, we would like to descrive the roadmap below.
+Lastly, we would like to describe the roadmap below.
 - Setup a Rust commander client
 - Create an interactive environment variables setting through CLI
 - Create commands to deploy contracts according to setting
@@ -104,21 +104,35 @@ We plan to provide a CLI to make ZK Rollups solution on Substrate easily.
 
 ### Milestone 1
 #### ZK Rollups CLI
-* **Estimated Duration:** 2 months
+* **Estimated Duration:** 1.5 month
 * **FTE:**  1
-* **Costs:** 20000 DAI
+* **Costs:** 15000 DAI
 
 We implement a ZK Rollup CLI. In order to setup ZK Rollup sidechain network, we need to implement some commands that allow us to deploy contracts, do integration test and, run sidechain and prover. In order to reset ZK Rollup sidechain network, we need to implement commands that allow us to restart the whole network and change the network config. In order for developers to setup the environment and try to run example commands, we need to prepare Dockerfile and tutorial. This CLI allows us to setup and reset ZK Rollup environment without high technical knowledge.
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
-| 1. | Implement Zk Rollup Builder CLI | CLI that deploys contracts, does integration test and, runs sidechain and prover |
-| 2. | Implement Zk Rollup Reset CLI | CLI that restarts whole network and changes the network config |
-| 3. | Integration Test | Test sidechain and mainchain work together correctly on substrate-based chain |
-| 4. | Prepare Dockerfile | Dockerfile that allows developer to setup the environment through docker |
-| 5. | Write Tutorial | ZK Rollup tutorial that allows developer to run example commands |
-| 6. | Documentation | Document which describes how to deposit, withdraw and send, be validator, and init and participate network on substrate-based chain |
-| 7. | Publish an article | After the Web3 Foundation’s review, we will publish an article which highlights ZK Rollups on Polkadot. Potentially, we will integrate the article to the Polkadot’s medium. |
+| 1. | Zk Rollup Builder CLI | Setup a Rust commander client and create an interactive environment variables setting through CLI. This step allows user not to set all environment variables like [here](https://github.com/PlasmNetwork/ZKRollups/blob/master/env/common.env) |
+| 2. | Zk Rollup Deployer CLI | Create commands to deploy contracts according to setting. This step allows user not to modify the zksync according to substrate frontier web3 specification |
+| 3. | Zk Rollup Integration Test CLI | CLI that deploys contracts, does integration test and, runs sidechain and prover |
+| 4. | Zk Rollup Reset CLI | CLI that restarts whole network and changes the network config |
+| 5. | Zk Rollup Option CLI | Implement adding prover command |
+| 6. | Integration Test | Test sidechain and mainchain work together correctly on substrate-based chain |
+| 7. | Prepare Dockerfile | Dockerfile that allows developer to setup the environment through docker |
+
+### Milestone 2
+#### ZK Rollups CLI
+* **Estimated Duration:** 0.5 month
+* **FTE:**  1
+* **Costs:** 5000 DAI
+
+We provide how to use tutorial of this CLI and CLI commands documentation on Github `README.md`, and publish an article to introduce overall of this project. These allow substrate developers to setup `Zk Rollup` environment immediately and help to grasp the abstruct of this project.
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 1. | Write Tutorial | ZK Rollup tutorial that allows developer to run example commands |
+| 2. | Documentation | Document which describes how to deposit, withdraw and send, be validator, and init and participate network on substrate-based chain |
+| 3. | Publish an article | After the Web3 Foundation’s review, we will publish an article which highlights ZK Rollups on Polkadot. Potentially, we will integrate the article to the Polkadot’s medium. |
 
 ## Additional Information :heavy_plus_sign:
 - [web site](https://www.plasmnet.io/)
